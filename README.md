@@ -1,1 +1,2 @@
 # Photoshop Portfolio
+Timothy Brown
