@@ -1,2 +1,1 @@
-# Photoshop
-Portfolio of Photoshop projects
+# Photoshop Portfolio
