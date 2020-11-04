@@ -1,4 +1,34 @@
-## Welcome to GitHub Pages
+### PhotoShop Portfolio
+
+# Product Placement
+
+Able to take your product and place it in an image.  You've seen poorly done ones on amazon often.  No attention to shading, light direction, sizing or scale.
+
+[image.jpg]
+
+Here is an example of what it looks like when such factors are taken into account
+
+product + background = finished placement
+
+
+# Object Removal
+
+
+
+
+#Touch Ups
+
+##Coloring
+
+
+
+##blemish removal for old photos
+
+
+
+# Creative Funny Projects
+
+
 
 You can use the [editor on GitHub](https://github.com/brownt47/Photoshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
