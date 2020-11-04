@@ -10,6 +10,9 @@ Able to take your product and place it in an image.  You've seen poorly done one
 Here is an example of what it looks like when such factors are taken into account
 
 product + background = finished placement
+![Image](https://github.com/brownt47/Photoshop/blob/main/Focus%20Area%20A.jpg)  ![Image](https://github.com/brownt47/Photoshop/blob/main/Focus%20Area%20B.jpg)
+
+![Image](https://github.com/brownt47/Photoshop/blob/main/project%203%20tomato.jpg)
 
 
 # Object Removal
