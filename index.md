@@ -11,14 +11,18 @@
 
 <br>
 <br>
-<br>
+
 ### Object Removal
-<br><br>
+<br>
+<br>
 
 ### Touch Ups
-<br><br>
+<br>
+<br>
 ### Coloring
-<br><br>
+<br>
+<br>
 ### Blemish removal for old photos
-<br><br>
+<br>
+<br>
 ### Creative Funny Projects
