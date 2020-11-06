@@ -5,7 +5,7 @@ Timothy Brown
 
 Able to take your product and place it in an image.  You've seen poorly done ones on amazon often.  No attention to shading, light direction, sizing or scale.
 
-![Image](images/BadPhotoShop.jpg)  
+![Image](https://raw.githubusercontent.com/brownt47/Photoshop/main/images/BadPhotoShop.jpg)  
 
 Here is an example of what it looks like when such factors are taken into account
 
