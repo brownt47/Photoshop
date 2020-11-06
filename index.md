@@ -17,6 +17,12 @@ Here is an example of what it looks like when such factors are taken into accoun
 <br>
 ![Image](https://github.com/brownt47/Photoshop/raw/main/images/project%203%20tomato.jpg){: .center-image }
 
+<p align="center">
+  <img src="https://github.com/brownt47/Photoshop/raw/main/images/project%203%20tomato.jpg" />
+</p>
+
+
+
 ## Object Removal
 
 
