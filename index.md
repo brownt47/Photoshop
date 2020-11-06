@@ -1,7 +1,7 @@
 ## Product Placement
 <br>
 <p align="center">
-  <img src="https://github.com/brownt47/Photoshop/raw/main/images/Product%20Placement%20-%20Tomato%20and%20Cutting%20Board.jpg" />
+  <img src="https://github.com/brownt47/Photoshop/raw/main/images/Product%20Placement%20-%20Tomato%20and%20Cutting%20Board%20v2.jpg" />
 </p>
 <br>
 <p align="center">
