@@ -5,14 +5,17 @@ Timothy Brown
 
 Able to take your product and place it in an image.  You've seen poorly done ones on amazon often.  No attention to shading, light direction, sizing or scale.
 
-![Image-center](https://raw.githubusercontent.com/brownt47/Photoshop/main/images/BadPhotoShop.jpg)  
+![Image](https://raw.githubusercontent.com/brownt47/Photoshop/main/images/BadPhotoShop.jpg)  
 
 Here is an example of what it looks like when such factors are taken into account
 
-product + background = finished placement
-![Image](img align="center" https://github.com/brownt47/Photoshop/raw/main/images/Product%20Placement%20-%20Tomato%20and%20Cutting%20Board.jpg)
 
-![Image](img align="center" https://github.com/brownt47/Photoshop/raw/main/images/project%203%20tomato.jpg)
+
+![Image](https://github.com/brownt47/Photoshop/raw/main/images/Product%20Placement%20-%20Tomato%20and%20Cutting%20Board.jpg)
+
+
+
+![Image](https://github.com/brownt47/Photoshop/raw/main/images/project%203%20tomato.jpg)
 
 
 # Object Removal
