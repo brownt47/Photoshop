@@ -17,7 +17,11 @@
 <br>
 <br>
 
-### Touch Ups
+### Retouching Photos
+
+<p align="center">
+  <img src="https://github.com/brownt47/Photoshop/raw/main/images/retouching_example.jpg" width="640" height="400"/>
+</p>
 
 <br>
 <br>
