@@ -41,19 +41,3 @@
 <br>
 
 
-### Coloring
-
-<br>
-<br>
-
-### Blemish removal for old photos
-
-<br>
-<br>
-
-### Creative Funny Projects
-
-### Object Removal
-
-<br>
-<br>
