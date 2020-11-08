@@ -29,20 +29,20 @@
 
 
 <p align="center">
-  <img src="https://github.com/brownt47/Photoshop/raw/main/images/StreetLegalGearDuotone.jpg" width="300" height="200"/>
+  <img src="https://github.com/brownt47/Photoshop/raw/main/images/StreetLegalGearDuotone.jpg" width="400" height="260"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/brownt47/Photoshop/raw/main/images/LastChanceTattoo.jpg" width="300" height="200"/>
+  <img src="https://github.com/brownt47/Photoshop/raw/main/images/LastChanceTattoo.jpg" width="400" height="260"/>
 </p>
 
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/brownt47/Photoshop/raw/main/images/FreshDuotone.jpg" width="200" height="300"/>
+  <img src="https://github.com/brownt47/Photoshop/raw/main/images/FreshDuotone.jpg" width="260" height="400"/>
 </p>
 
 <br>
