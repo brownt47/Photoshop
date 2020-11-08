@@ -11,33 +11,20 @@
 <br>
 
 ## Retouching Photos
-
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/images/retouching_example.jpg" width="640" height="400"/>
 </p>
-
 <br>
 <br>
-
 ## Promotional Media
-
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/images/StreetLegalGearDuotone.jpg" width="500" height="325"/>
 </p>
-
 <br>
-
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/images/LastChanceTattoo.jpg" width="500" height="325"/>
 </p>
-
-
 <br>
-
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/images/FreshDuotone.jpg" width="325" height="500"/>
 </p>
-
-<br>
-
-
