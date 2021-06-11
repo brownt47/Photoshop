@@ -13,9 +13,7 @@
 <br>
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20B.jpg" width="300" height="300" />
-</p>
-<br>
-<p align="center">
+
   <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20Project.jpg" width="300" height="300"/>
 </p>
 <br>
