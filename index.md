@@ -12,11 +12,11 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20B.jpg" />
+  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20B.jpg" width="640" height="213" />
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20Project.jpg" />
+  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20Project.jpg" width="640" height="213"/>
 </p>
 <br>
 <br>
