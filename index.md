@@ -10,6 +10,19 @@
 <br>
 <br>
 
+<br>
+<p align="center">
+  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20B.jpg" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20Project.jpg" />
+</p>
+<br>
+<br>
+
+
+
 ## Retouching Photos
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/images/retouching_example.jpg" width="640" height="400"/>
