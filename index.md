@@ -10,14 +10,6 @@
 <br>
 <br>
 
-<br>
-<p align="center">
-  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20B.jpg" width="300" height="300" />
-
-  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20Project.jpg" width="300" height="300"/>
-</p>
-<br>
-<br>
 
 ## Compositions
 <br>
@@ -41,6 +33,16 @@
 <br>
 
 ## Promotional Media
+
+<br>
+<p align="center">
+  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20B.jpg" width="300" height="300" />
+
+  <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Channel%20Mask%20Project.jpg" width="300" height="300"/>
+</p>
+<br>
+<br>
+
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/images/StreetLegalGearDuotone.jpg" width="500" height="325"/>
 </p>
