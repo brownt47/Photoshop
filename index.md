@@ -19,12 +19,13 @@
 <br>
 <br>
 
+## Compositions
 <br>
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/Project%201%20v1.jpg" width="600" height="300"/>
 </p>
 <br>
-## Compositions
+
 <p align="center">
   <img src="https://github.com/brownt47/Photoshop/raw/main/Product_Placement_Images/composite_images.jpg" width="600" height="300" />
 </p>
